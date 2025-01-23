@@ -6,4 +6,4 @@ step 2:
 edit .env file
 
 step 3:
-npm start dev
+npm run dev
